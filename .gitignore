@@ -3,3 +3,4 @@
 
 ### Flask ###
 my_venv/
+__pycache__/
