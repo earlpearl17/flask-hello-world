@@ -4,3 +4,6 @@
 ### Flask ###
 my_venv/
 __pycache__/
+myproject-local.py
+fd_venv/
+
